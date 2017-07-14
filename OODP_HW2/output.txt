@@ -1,0 +1,19 @@
+///////////problem (a)/////////////
+sunhwa	baek	83.4	B
+jonson	pill	84.0	B
+heekang	song	92.9	A
+onyu	kang	80.1	B
+///////////problem (b)/////////////
+		highest	lowest	average
+project1	100.0	80.0	91.0
+project2	90.0	37.0	69.25
+project3	100.0	50.0	83.75
+midterm		100.0	70.0	82.0
+final		91.0	90.0	90.25
+total		80.1	80.1	20.025
+///////////problem (c)/////////////
+A : 1
+B : 3
+C : 0
+D : 0
+F : 0
